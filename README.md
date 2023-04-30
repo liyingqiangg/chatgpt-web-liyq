@@ -9,6 +9,8 @@
 ## 说明
 > **此项目 Fork 自 [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web), 新增了部分特色功能:**
 
+forked from Kerwin1202/chatgpt-web
+
 [✓] 注册&登录&重置密码
 
 [✓] 同步历史会话
